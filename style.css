@@ -27,13 +27,13 @@ body {
   display: flex;
   width: 100%;
   align-items: center;
-  height: 100px;
+  height: 80px;
   border-bottom: 0.2px solid #ffffff20;
 }
 .logo img {
   margin: 0 auto;
-  width: 150px;
-  height: 50px;
+  width: 120px;
+  height: 40px;
 }
 .main {
   display: flex;
@@ -426,11 +426,11 @@ td img {
 }
 .important-details h1 {
   font-size: 20px;
-  margin:  0 auto;
+  margin: 0 auto;
 }
 .details {
   width: 100%;
-  padding:  2rem 1rem;
+  padding: 2rem 1rem;
 }
 .details span {
   display: flex;
@@ -453,9 +453,9 @@ td img {
   background-color: #e78a1821;
   align-items: center;
   width: 100%;
-  padding: 1rem ;
+  padding: 1rem;
   border: 2px solid #e78918;
-  border-radius:  5px;
+  border-radius: 5px;
   color: #1b1c31;
   font-weight: 600;
 }
